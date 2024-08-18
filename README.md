@@ -49,7 +49,7 @@ You can also use this script as python module:
 
 1. Clone to your project folder
   ```
-  git clone https://github.com/nevermoe/protobuf_decoder.git
+  git clone https://github.com/nnnnnnn0090/protobuf_decoder.git
   ```
 
 2. import and use.
